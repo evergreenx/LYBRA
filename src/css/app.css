@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff;
+}
+
+.contact__us__input__container {
+  padding: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.contact__us__input__container .contact__us__input {
+  border: none;
+  padding: 15px;
+  outline: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.contact__us__input__container .contact__us__btn {
+  padding: 15px;
+  border: none;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  background-color: #F29446;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.6rem;
+}
+/*# sourceMappingURL=app.css.map */
